@@ -1,0 +1,105 @@
+{
+	"meta": {
+		"charset": "utf-8",
+		"project": "stb-demo 0.1.1",
+		"language": "ru",
+		"plural": "(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"Adult content": "Скрыть нежелательный контет",
+			"Author": "Автор",
+			"Back": "Назад",
+			"Best": "Лучшее",
+			"Cancel": "Отмена",
+			"Categories": "Категории",
+			"Choose default video quality": "Выберите качество видео по умолчанию",
+			"Close Guide": "Закрыть гид",
+			"Default extension": "Качество видео по умолчанию",
+			"Error playing": "Ошибка воспроизведения",
+			"Exit": "Выход",
+			"Exit from app?": "Выйти из приложения?",
+			"Forward": "Вперед",
+			"Guide": "Гид",
+			"Hide unwanted content": "Скрыть нежелательный контет",
+			"In order to apply a new language, you must restart the application": "Для того чтобы применить новый язык необходимо перезагрузить приложение",
+			"Interface language": "Язык интерфейса",
+			"Language": "Язык",
+			"Live broadcasts are not supported": "Прямые трансляции не поддерживаются",
+			"Login": "Авторизоваться",
+			"Logout": "Выйти из аккаунта",
+			"Logout from application?": "Выйти из аккаунта?",
+			"Main": "Главная",
+			"More": "Больше",
+			"My playlists": "Мои плейлисты",
+			"Next": "Следующий",
+			"No videos": "Нет видео",
+			"Off": "Выключен",
+			"Ok": "Ок",
+			"On": "Включен",
+			"Pause": "Пауза",
+			"Play": "Играть",
+			"Playlists": "Плейлисты",
+			"Previous": "Предыдущий",
+			"Related videos": "Похожие видео",
+			"Safe mode": "Безопастный режим",
+			"Search": "Поиск",
+			"Settings": "Настройки",
+			"Sign in": "Авторизоваться",
+			"Subscriptions": "Подписки",
+			"To the main": "На главную",
+			"Upload date": "Дата загрузки",
+			"Uploads on the channel": "Загрузки на канале",
+			"Video is not available": "Видео недоступно",
+			"View": [
+				"Просмотр",
+				"Просмотра",
+				"Просмотров"
+			],
+			"You want to login into app?": "Вы желаете авторизоваться?",
+			"Youtube": "Youtube",
+			"Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.": "Youtube.com  популярный мировой видеохостинг, где пользователи могут добавлять, просматривать, комментировать и делиться с друзьями видеозаписями.",
+			"ago": "назад",
+			"day": [
+				"день",
+				"дня",
+				"дней"
+			],
+			"hour": [
+				"час",
+				"часа",
+				"часов"
+			],
+			"minute": [
+				"минута",
+				"минуты",
+				"минут"
+			],
+			"month": [
+				"месяц",
+				"месяца",
+				"месяцев"
+			],
+			"second": [
+				"секунда",
+				"секунды",
+				"се"
+			],
+			"subscriber": [
+				"подписчик",
+				"подписчика",
+				"подписчиков"
+			],
+			"view": [
+				"просмотр",
+				"просмотра",
+				"просмотров"
+			],
+			"year": [
+				"год",
+				"года",
+				"лет"
+			]
+		}
+	}
+}

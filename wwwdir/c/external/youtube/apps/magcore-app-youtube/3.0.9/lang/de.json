@@ -1,0 +1,67 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "de",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Author": "Auteur",
+			"Back": "Zurück",
+			"Best": "Best",
+			"Cancel": "Abbrechen",
+			"Close Guide": "Sluiten Guide",
+			"Exit": "Afrit",
+			"Exit from app?": "Beenden app?",
+			"Guide": "Guide",
+			"In order to apply a new language, you must restart the application": "Om een nieuwe taal toe te passen, moet u de toepassing opnieuw starten",
+			"Interface language": "Schnittstellensprache",
+			"Language": "Sprache",
+			"Live broadcasts are not supported": "Live-Übertragungen werden nicht unterstützt",
+			"Main": "Main",
+			"No videos": "Geen video's",
+			"Off": "Af",
+			"Ok": "Ok",
+			"On": "Op",
+			"Search": "Zoeken",
+			"Settings": "Einstellungen",
+			"Video is not available": "Video nicht verfügbar",
+			"Youtube": "Youtube",
+			"Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.": "Youtube.com ist ein berühmtes globales Videohosting, wo User Videos hinzufügen, anschauen, kommentieren und mit Freunden teilen können.",
+			"ago": "geleden",
+			"day": [
+				"dag",
+				"dagen"
+			],
+			"hour": [
+				"uur",
+				"uur"
+			],
+			"minute": [
+				"minuut",
+				"notulen"
+			],
+			"month": [
+				"maand",
+				"maanden"
+			],
+			"second": [
+				"tweede",
+				"seconden"
+			],
+			"subscriber": [
+				"abonnee",
+				"abonnees"
+			],
+			"view": [
+				"beke",
+				"bekeken"
+			],
+			"year": [
+				"jaar",
+				"jaren"
+			]
+		}
+	}
+}

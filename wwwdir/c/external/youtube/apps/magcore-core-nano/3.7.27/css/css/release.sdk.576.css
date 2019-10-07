@@ -1,0 +1,35 @@
+/* spa-app: release */
+html, body {
+    height: 576px;
+    width: 720px;
+    font-size: 18px;
+    font-family: Ubuntu, sans-serif;
+    overflow: hidden;
+    margin: 0;
+    padding: 0; }
+
+table {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 0; }
+    table td {
+        padding: 0; }
+
+.maxh {
+    height: 100%; }
+
+.maxw {
+    width: 100%; }
+
+a {
+    text-decoration: none; }
+
+.invisible {
+    visibility: hidden; }
+
+/* stb-app: release */
+html, body {
+    -webkit-user-select: none; }
+
+/* mag-app: release */
+

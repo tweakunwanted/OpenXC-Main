@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "en",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Actions": "Actions",
+			"All categories": "All categories",
+			"April": "April",
+			"August": "August",
+			"By name": "By name",
+			"By number": "By number",
+			"Cancel": "",
+			"Categories": "Categories",
+			"Channel is temporary unavailable": "Channel is temporary unavailable",
+			"Channel list": "Channel list",
+			"Channel {0} was added": "Channel {0} was added",
+			"Channels was updated": "Channels was updated",
+			"December": "December",
+			"Exit": "Exit",
+			"Favorite": "Favorite",
+			"February": "February",
+			"January": "January",
+			"July": "July",
+			"June": "June",
+			"March": "March",
+			"Mark": "Mark",
+			"May": "May",
+			"Menu": "Menu",
+			"No such channel number": "No such channel number",
+			"November": "November",
+			"October": "October",
+			"Play": "Play",
+			"Record": "Record",
+			"Reset filters": "Reset filters",
+			"Search": "Search",
+			"September": "September",
+			"Sort": "Sort",
+			"TV": "",
+			"Tv program": "Tv program",
+			"Watch TV shows, movies, tv series, news and educational programs in digital quality.": "",
+			"tv channel search": "",
+			"{0} channel was deleted": [
+				"{0} channel was deleted",
+				"{0} channels was deleted"
+			],
+			"{0} channels was added": "{0} channels was added"
+		}
+	}
+}

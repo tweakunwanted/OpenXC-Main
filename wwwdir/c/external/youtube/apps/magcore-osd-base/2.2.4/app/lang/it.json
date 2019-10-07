@@ -1,0 +1,14 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "it",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Device is disconnected": "Il dispositivo non è connesso",
+			"New device is connected": "Un nuovo dispositivo è connesso"
+		}
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "ka",
+		"plural": "0"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "1 წუთი დარჩა ბუფერის შევსებამდე",
+			"Actions": "მოქმედებები",
+			"Aspect": "ასპექტი",
+			"Can not get current epg link": "შეუძლებელია მიმდინარე epg ლინკის მიღება",
+			"Change audio track language": "აუდიო მუსიკის ენის შეცვლა",
+			"Change video conversation mode": "ვიდეო საუბრის რეჟიმის შეცვლა",
+			"Change volume level": "ხმის დონის შეცვლა",
+			"Display": "ჩვენება",
+			"Enable/disable or change subtitles for current content playback": "მიმდინარე შიგთავსის გაშვების სუბტიტრების ჩართვა/გამორთვა ან შეცვლა ",
+			"Error playing content": "შეცდომა შიგთავსის ჩართვისას",
+			"Exit": "გამოსვლა",
+			"External track": "გარე ბილიკი",
+			"Info": "ინფორმაცია",
+			"Letter box": "წერილის უჯრა",
+			"List": "სია",
+			"Mount usb device!": "USB მოწყობილობის დაყენება",
+			"Mute": "ხმის გათიშვა",
+			"Mute On": "ხმის ჩართვა",
+			"Mute all sound": "ყველა ხმის გამორთვა",
+			"Mute off": "ხმის გამორთვა",
+			"No": "არა",
+			"Off": "გამორთვა",
+			"Original": "ორიგინალი",
+			"Pan&Scan": "პანსკანირება",
+			"PiP": "PiP",
+			"Settings": "პარამეტრები",
+			"Sound": "ხმა",
+			"Sound track": "ხმოვანი ბილიკი",
+			"Subtitles": "სუბტიტრები",
+			"Timeshift buffer is full": "ბუფერი არის შევსებული",
+			"Track": "ბილიკი",
+			"USB storage is full": "USB სანახი სავსეა",
+			"USB storage unavailable": "USB სანახი არ არის ხელმისაწვდომი",
+			"Volume level": "ხმის დონე",
+			"Yes": "დიახ",
+			"combined": "კომბინირებული",
+			"enlarged": "გაფართოებული",
+			"external": "გარე ბილიკი",
+			"optimal": "ოპტიმალური",
+			"player": "პლეერი",
+			"undefined": "განუსაზღვრელი"
+		}
+	}
+}

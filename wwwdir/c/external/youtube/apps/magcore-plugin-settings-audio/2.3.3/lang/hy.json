@@ -1,0 +1,28 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "hy-AM",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Audio": "Աուդիո",
+			"Audio Output Mode": "Աուդիո Եքային Ռեժիմ",
+			"Disabled": "Անջատված է",
+			"Dynamic range compression": "Դինամիկ միջակայքի խտացում",
+			"HDMI Audio": "Բարձր հստակության մուլտիմեդիա ինտերֆեյս Աուդիո",
+			"Initial volume level": "Ձայնի սկզբնական մակարդակ",
+			"Max": "Մաքսիմում",
+			"Mono": "Մոնո",
+			"Mono Left": "Մոնո ձախ",
+			"Mono Right": "Մոնո աջ",
+			"Operating mode": "Աշխատանքային ռեժիմ",
+			"SPDIF Mode": "Սոնի/ Ֆիլիփս թվային ինտերֆեյս միջակայքի ռեժիմ",
+			"Select the sound output mode: Mono, Stereo, Lt / Rt, etc.": "Ընտրեք ձայնային ելքային ռեժիմ: Մոնո, ստերեո, Ձախ/Աջ, և այլն:",
+			"Setting audio parameters": "Սահմանել աուդիո պարամետրերը",
+			"Setting the initial volume level with which playback will be performed after switch on": "Սահմանել ձայնի սկզբնական մակարդակը որով նվագարկումը կկատարվի միացումից հետո",
+			"Stereo": "Ստերեո\n"
+		}
+	}
+}

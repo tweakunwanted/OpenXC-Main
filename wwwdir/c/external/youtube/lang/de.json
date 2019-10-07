@@ -1,0 +1,96 @@
+{
+	"meta": {
+		"charset": "utf-8",
+		"project": "youtube.com 1.2.3",
+		"language": "de",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Adult content": "Inhalt für Erwachsene",
+			"Author": "Auteur",
+			"Back": "Zurück",
+			"Best": "Best",
+			"Cancel": "Abbrechen",
+			"Categories": "Kategorien",
+			"Choose default video quality": "Kies standaard videokwaliteit",
+			"Close Guide": "Sluiten Guide",
+			"Default extension": "Standarderweiterung",
+			"Error playing": "Fehlerspiel",
+			"Exit": "Afrit",
+			"Exit from app?": "Beenden app?",
+			"Forward": "Vorwärts",
+			"Guide": "Guide",
+			"Hide unwanted content": "Ausblenden unerwünschte Inhalte",
+			"In order to apply a new language, you must restart the application": "Om een nieuwe taal toe te passen, moet u de toepassing opnieuw starten",
+			"Interface language": "Schnittstellensprache",
+			"Language": "Sprache",
+			"Live broadcasts are not supported": "Live-Übertragungen werden nicht unterstützt",
+			"Login": "Einloggen",
+			"Logout": "Abmelden",
+			"Logout from application?": "Abmelden von der Anwendung?",
+			"Main": "Main",
+			"More": "meer",
+			"My playlists": "Meine Playlisten",
+			"Next": "Nächster",
+			"No videos": "Geen video's",
+			"Off": "Af",
+			"Ok": "Ok",
+			"On": "Op",
+			"Pause": "Pauzeren",
+			"Play": "Spelen",
+			"Playlists": "Wiedergabelisten",
+			"Previous": "Zurück",
+			"Related videos": "Ähnliche Videoss",
+			"Safe mode": "Sicherheitsmodus",
+			"Search": "Zoeken",
+			"Settings": "Einstellungen",
+			"Sign in": "Anmelden",
+			"Subscriptions": "Abonnements",
+			"To the main": "Bis zum Haupt-",
+			"Upload date": "Datum des Hochladens",
+			"Uploads on the channel": "Uploads auf dem Kanal",
+			"Video is not available": "Video nicht verfügbar",
+			"View": [
+				"Anzeigen",
+				"Ansichten"
+			],
+			"You want to login into app?": "Sie wollen in die App nicht anmelden?",
+			"Youtube": "Youtube",
+			"Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.": "Youtube.com ist ein berühmtes globales Videohosting, wo User Videos hinzufügen, anschauen, kommentieren und mit Freunden teilen können.",
+			"ago": "geleden",
+			"day": [
+				"dag",
+				"dagen"
+			],
+			"hour": [
+				"uur",
+				"uur"
+			],
+			"minute": [
+				"minuut",
+				"notulen"
+			],
+			"month": [
+				"maand",
+				"maanden"
+			],
+			"second": [
+				"tweede",
+				"seconden"
+			],
+			"subscriber": [
+				"abonnee",
+				"abonnees"
+			],
+			"view": [
+				"beke",
+				"bekeken"
+			],
+			"year": [
+				"jaar",
+				"jaren"
+			]
+		}
+	}
+}

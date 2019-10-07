@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "tr",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "",
+			"Actions": "İşlemler",
+			"Aspect": "Ekran oranı",
+			"Can not get current epg link": "Geçerli epg bağlantısı alınamıyor",
+			"Change audio track language": "Ses Parçası dilini değiştir",
+			"Change video conversation mode": "Video görüşme modu değiştir",
+			"Change volume level": "Ses seviyesini değiştir",
+			"Display": "Ekran",
+			"Enable/disable or change subtitles for current content playback": "Geçerli içerik oynatımı için altyazıları etkinleştir/devre dışı bırak veya değiştir",
+			"Error playing content": "İçerik oynatılırken hata oluştu",
+			"Exit": "Çıkış",
+			"External track": "Harici parça",
+			"Info": "Bilgi",
+			"Letter box": "Posta kutusu",
+			"List": "Listele",
+			"Mount usb device!": "USB cihaz bağla",
+			"Mute": "Sessiz",
+			"Mute On": "Ses Açık",
+			"Mute all sound": "Tüm sesleri kapat",
+			"Mute off": "Ses kapalı",
+			"No": "Hayır",
+			"Off": "Kapalı",
+			"Original": "Orijinal",
+			"Pan&Scan": "Kaydır & Tara",
+			"PiP": "PiP",
+			"Settings": "Ayarlar",
+			"Sound": "Ses",
+			"Sound track": "Ses parçası",
+			"Subtitles": "Altyazılar",
+			"Timeshift buffer is full": "Bekletİzle arabelleği dolu",
+			"Track": "Parça",
+			"USB storage is full": "USB bellek dolu",
+			"USB storage unavailable": "USB bellek kullanılamıyor ",
+			"Volume level": "Ses seviyesi",
+			"Yes": "Evet",
+			"combined": "birleşik",
+			"enlarged": "genişletilmiş",
+			"external": "Harici parça",
+			"optimal": "optimal",
+			"player": "oynatıcı",
+			"undefined": "belirsiz"
+		}
+	}
+}

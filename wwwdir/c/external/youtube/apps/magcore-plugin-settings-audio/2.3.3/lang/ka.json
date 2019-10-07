@@ -1,0 +1,28 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "ka-GE",
+		"plural": "0"
+	},
+	"data": {
+		"": {
+			"Audio": "აუდიო",
+			"Audio Output Mode": "აუდიოს გამოშვების რეჟიმი",
+			"Disabled": "გამორთულია",
+			"Dynamic range compression": "დინამიური დიაპაზონის შეკუმშვა",
+			"HDMI Audio": "HDMI აუდიო",
+			"Initial volume level": "საწყისი ხმის დონე",
+			"Max": "მაქსიმუმი",
+			"Mono": "მონო",
+			"Mono Left": "მონო მარცხნივ",
+			"Mono Right": "მონო მარჯვნივ",
+			"Operating mode": "ოპერაციული რეჟიმი",
+			"SPDIF Mode": "SPDIF რეჟიმი",
+			"Select the sound output mode: Mono, Stereo, Lt / Rt, etc.": "არჩიეთ ხმის გამოშვების რეჟიმი: მონო, სტერეო, Lt / Rt, სხვა.",
+			"Setting audio parameters": "აუდიო პარამეტრების დაყენება",
+			"Setting the initial volume level with which playback will be performed after switch on": "საწყუსი ხმის დონის დაყენება, რომლითაც დაკვრა შესრულდება ჩართვის შემდეგ",
+			"Stereo": "სტერეო"
+		}
+	}
+}

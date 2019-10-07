@@ -1,0 +1,29 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "ua",
+		"plural": ""
+	},
+	"data": {
+		"": {
+			"Actions": "Опции",
+			"Aspect": "Аспект",
+			"Cancel": "Отмена",
+			"Display": "Изображение",
+			"Exit": "Выход",
+			"Mute": "Без звука",
+			"Mute On": "Без звука",
+			"Mute off": "Звук вкл",
+			"Off": "Выкл",
+			"Options": "Опции",
+			"PiP": "PiP",
+			"Settings": "Настройки",
+			"Sound": "Звук",
+			"Sound track": "Звуковая дорожка",
+			"Subtitles": "Субтитры",
+			"Track": "Трек",
+			"Volume level": "Уровень звука"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "ru",
+		"plural": "(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"Audio": "Аудио",
+			"Audio Output Mode": "Режим аудио-выхода",
+			"Disabled": "Отключено",
+			"Dynamic range compression": "Сжатие динамического диапазона",
+			"HDMI Audio": "HDMI Аудио",
+			"Initial volume level": "Начальный уровень громкости",
+			"Max": "Максимум",
+			"Mono": "Один",
+			"Mono Left": "Один Левый",
+			"Mono Right": "Один Правый",
+			"Operating mode": "Настройка параметров звука",
+			"SPDIF Mode": "SPDIF Режим",
+			"Select the sound output mode: Mono, Stereo, Lt / Rt, etc.": "Выбор режима вывода звука: Моно, Стерео, Lt/Rt и пр.",
+			"Setting audio parameters": "Настройка параметров звука",
+			"Setting the initial volume level with which playback will be performed after switch on": "Установка начального уровня громкости, с которым будет выполняться воспроизведение после включения",
+			"Stereo": "Стерео"
+		}
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "el",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Audio": "Ήχος",
+			"Audio Output Mode": "Μέθοδος αναπαραγωγής ήχου",
+			"Disabled": "Απενεργοποιήθηκε",
+			"Dynamic range compression": "Συμπίεση δυναμικού εύρους",
+			"HDMI Audio": "Ήχος HDMI",
+			"Initial volume level": "Αρχικό επίπεδο έντασης",
+			"Max": "Μέγιστο",
+			"Mono": "Μονό",
+			"Mono Left": "Μονό αριστερά",
+			"Mono Right": "Μονό δεξιά",
+			"Operating mode": "Μέθοδος λειτουργίας",
+			"SPDIF Mode": "SPDIF τρόπος",
+			"Select the sound output mode: Mono, Stereo, Lt / Rt, etc.": "Επιλέξτε τον τρόπο εξόδου του ήχου:Μονό,Στέρεο,Αρ/Δε,κλπ.",
+			"Setting audio parameters": "Ορίστε τις παραμέτρους του ήχου",
+			"Setting the initial volume level with which playback will be performed after switch on": "Ρυθμίστε την αρχική ένταση με την οποία θα γίνεται η αναπαραγωγή μετά το άνοιγμα",
+			"Stereo": "Στέρεο"
+		}
+	}
+}

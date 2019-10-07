@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "el",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "Ένα λεπτό πριν την βάρδια ο ρυθμιστής είναι γεμάτος",
+			"Actions": "Δράσεις",
+			"Aspect": "Άποψη",
+			"Can not get current epg link": "Δεν μπορεί να πάρει τον τρέχων  epg σύνδεσμο",
+			"Change audio track language": "Αλλαγή της γλώσσας του ηχητικού κομματιού",
+			"Change video conversation mode": "Αλλάξτε την λειτουργία ομιλίας του βίντεο",
+			"Change volume level": "Αλλάξτε το επίπεδο έντασης",
+			"Display": "Εμφάνιση",
+			"Enable/disable or change subtitles for current content playback": "Ενεργοποιήστε/Απενεργοποιήστε ή αλλάξτε υπότιτλους στην τρέχουσα αναπαραγωγή περιεχομένου",
+			"Error playing content": "Σφάλμα αναπαραγωγής περιεχομένου",
+			"Exit": "Έξοδος",
+			"External track": "Εξωτετικό κομμάτι",
+			"Info": "Πληροφορίες",
+			"Letter box": "Γρεαμματοκιβώτιο",
+			"List": "Λίστα",
+			"Mount usb device!": "Προσάρτηση συσκευής USB!",
+			"Mute": "Απενεργοποίηση ήχου",
+			"Mute On": "Ενεργοποίηση ήχου",
+			"Mute all sound": "Απενεργοποίηση όλων των ήχων",
+			"Mute off": "Ενεργοποίηση ήχου",
+			"No": "Όχι",
+			"Off": "Απενεργοποίηση",
+			"Original": "Αυθεντικό",
+			"Pan&Scan": "Σάρωση",
+			"PiP": "PiP",
+			"Settings": "Ρυθμίσεις",
+			"Sound": "Ήχος",
+			"Sound track": "Κομμάτι ήχου",
+			"Subtitles": "Υπότιτλοι",
+			"Timeshift buffer is full": "Ο ρυθμιστής βάρδιας είναι πλήρης",
+			"Track": "Κομμάτι",
+			"USB storage is full": "Ο αποθηκευτικός χώρος του αφαιρούμενου δίσκου είναι πλήρης",
+			"USB storage unavailable": "Ο αποθηκευτικός χώρος του αφαιρούμενου δίσκου δεν είναι διαθέσιμος",
+			"Volume level": "Επίπεδο έντασης",
+			"Yes": "Ναι",
+			"combined": "σε συνδιασμό",
+			"enlarged": "διευρυμένο",
+			"external": "Εξωτετικό κομμάτι",
+			"optimal": "βέλτιστο",
+			"player": "παίκτης",
+			"undefined": "απροσδιόριστο"
+		}
+	}
+}

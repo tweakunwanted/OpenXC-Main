@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "bg",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "Timeshift буферът се изпълва 1 минута преди смяната във времето",
+			"Actions": "Действия",
+			"Aspect": "Аспект",
+			"Can not get current epg link": "Текущата epg връзка не може да бъде осъществена",
+			"Change audio track language": "Промени езика на аудио записа",
+			"Change video conversation mode": "Промени режима на видео разговор",
+			"Change volume level": "Промени силата на звука",
+			"Display": "Възпроизведи",
+			"Enable/disable or change subtitles for current content playback": "Активиране/деактивиране или промяна на субтитрите за текущото изпълнение на съдържанието",
+			"Error playing content": "Грешка при изпълнението на съдържанието",
+			"Exit": "Изход",
+			"External track": "Външен трак",
+			"Info": "Информация",
+			"Letter box": "Пощенска кутия",
+			"List": "Списък",
+			"Mount usb device!": "Прикачете usb устройство!",
+			"Mute": "Заглуши",
+			"Mute On": "Заглушено",
+			"Mute all sound": "Заглуши всякакъв звук",
+			"Mute off": "Заглушаването е изключено",
+			"No": "Не",
+			"Off": "Изключи",
+			"Original": "Оригинал",
+			"Pan&Scan": "",
+			"PiP": "",
+			"Settings": "Настройки",
+			"Sound": "Звук",
+			"Sound track": "Звуков трак",
+			"Subtitles": "Субтитри",
+			"Timeshift buffer is full": "Timeshift буферът е пълен",
+			"Track": "Трак",
+			"USB storage is full": "Паметта на USB-то е пълна",
+			"USB storage unavailable": "Паметта на USB-то не е достъпна",
+			"Volume level": "Ниво на звука",
+			"Yes": "Да",
+			"combined": "комбиниран",
+			"enlarged": "увеличен",
+			"external": "Външен трак",
+			"optimal": "оптимален",
+			"player": "плейър",
+			"undefined": "неопределен"
+		}
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "k",
+		"plural": ""
+	},
+	"data": {
+		"": {
+			"Actions": "",
+			"Aspect": "",
+			"Can not get current epg link": "",
+			"Change audio track language": "",
+			"Change video conversation mode": "",
+			"Change volume level": "",
+			"Display": "",
+			"Enable/disable or change subtitles for current content playback": "",
+			"External track": "",
+			"Info": "",
+			"Letter box": "",
+			"List": "",
+			"Mute": "",
+			"Mute On": "",
+			"Mute all sound": "",
+			"Mute off": "",
+			"Off": "",
+			"Original": "",
+			"Pan&Scan": "",
+			"PiP": "",
+			"Settings": "",
+			"Sound": "",
+			"Sound track": "",
+			"Subtitles": "",
+			"Track": "",
+			"Volume level": "",
+			"combined": "",
+			"enlarged": "",
+			"optimal": "",
+			"player": "",
+			"undefined": ""
+		}
+	}
+}

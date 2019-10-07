@@ -1,0 +1,17 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "ru",
+		"plural": "(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"Active": "Активный",
+			"Deep": "Глубокий",
+			"Mode": "Режим",
+			"Selecting standby mode: \n Deep - all applications complete their work \n Active - most of the systems work, the screen dims and the player stops \n These modes are activated by pressing the Power button on the remote control.": "Выбор режима ожидания:\nГлубокий - все приложения завершают свою работу\nАктивный - большая часть систем работает, гасится экран и останавливается плеер\nДанные режимы активируются при нажатии кнопки Power на пульте ДУ",
+			"Stand by mode": "Режим ожидания"
+		}
+	}
+}

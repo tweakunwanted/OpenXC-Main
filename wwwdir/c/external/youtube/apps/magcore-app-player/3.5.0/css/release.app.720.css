@@ -1,0 +1,377 @@
+/* application: release */
+body.transparent {
+    background: transparent; }
+
+#pMain {
+    background: rgba(0, 0, 0, 0.35); }
+
+#contentTitle {
+    position: absolute;
+    top: 400px;
+    font-size: 33px;
+    left: 155px;
+    width: 970px;
+    height: 68.2px;
+    line-height: 1;
+    overflow: hidden;
+    word-break: break-all;
+    word-wrap: break-word;
+    text-overflow: ellipsis; }
+
+#contentProgramTitle {
+    position: absolute;
+    top: 455px;
+    font-size: 22px;
+    left: 155px;
+    width: 970px;
+    height: 44px;
+    overflow: hidden;
+    word-break: break-all;
+    word-wrap: break-word;
+    text-overflow: ellipsis; }
+
+#contentInfo {
+    width: 1200px;
+    position: absolute;
+    top: 40px;
+    left: 40px; }
+
+#codecInfo {
+    display: block;
+    float: left;
+    margin-right: 22px; }
+
+#codecInfo[src=''] {
+    display: none;
+    margin-right: 0; }
+
+#langInfo {
+    float: left; }
+
+#dualMono {
+    float: right;
+    display: none; }
+    #dualMono.active {
+        display: block; }
+
+#pMainMenuWrapper {
+    position: absolute;
+    bottom: 60px;
+    width: 100%; }
+
+#pMainMenu {
+    margin: 0 auto; }
+
+#pMainPlayerPanel {
+    position: absolute;
+    bottom: 160px;
+    left: 155px; }
+
+#icons {
+    position: fixed;
+    top: 40px;
+    right: 40px; }
+    #icons .theme-icon {
+        visibility: hidden; }
+        #icons .theme-icon.visible {
+            visibility: visible; }
+
+#equalizer {
+    width: 35%;
+    height: 25%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto; }
+    #equalizer > div {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        background-size: 100% 100%;
+        display: none; }
+
+#slide1 {
+    background: url("../img/720/slide_1.png") center no-repeat; }
+
+#slide2 {
+    background: url("../img/720/slide_2.png") center no-repeat; }
+
+#slide3 {
+    background: url("../img/720/slide_3.png") center no-repeat; }
+
+#slide4 {
+    background: url("../img/720/slide_4.png") center no-repeat; }
+
+#modalIntentWidget {
+    background: rgba(0, 0, 0, 0.2);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0; }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+
+html, body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background: #061329; }
+
+#spinner {
+    display: none;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; }
+    #spinner.on {
+        display: block; }
+
+.box {
+    width: 45%;
+    height: 45%;
+    background: rgba(0, 150, 187, 0.7);
+    opacity: 0;
+    -webkit-animation: load 2s linear infinite; }
+    .box:nth-of-type(1) {
+        position: absolute;
+        top: 2.5%;
+        left: 2.5%; }
+    .box:nth-of-type(2) {
+        position: absolute;
+        top: 2.5%;
+        right: 2.5%;
+        -webkit-animation-delay: -0.5s; }
+    .box:nth-of-type(3) {
+        position: absolute;
+        bottom: 2.5%;
+        right: 2.5%;
+        -webkit-animation-delay: -1s; }
+    .box:nth-of-type(4) {
+        position: absolute;
+        bottom: 2.5%;
+        left: 2.5%;
+        -webkit-animation-delay: -1.5s; }
+
+@keyframes load {
+    0% {
+        opacity: 0; }
+    30% {
+        opacity: 0; }
+    90% {
+        opacity: 1; }
+    100% {
+        opacity: 0; } }
+
+#pSettings .mag-component-panel.right .body {
+    position: relative;
+    width: 100%; }
+
+#pSettings .mag-component-panel.right .mag-component-scroll-area > .body {
+    padding: 20px; }
+
+#pSettings .modalPopUp > div > div > .header .text {
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: inline-block;
+    text-align: left; }
+
+#pSettings .modalPopUp > div > div > .body {
+    position: relative; }
+    #pSettings .modalPopUp > div > div > .body .mag-component-layout-list .item {
+        padding-right: 0 !important; }
+    #pSettings .modalPopUp > div > div > .body .mag-component-layout-list .item .mag-component-layout {
+        width: 100%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        display: inline-block; }
+        #pSettings .modalPopUp > div > div > .body .mag-component-layout-list .item .mag-component-layout div {
+            display: inline-block;
+            width: 100%;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap; }
+    #pSettings .modalPopUp > div > div > .body .spa-component-scrollbar {
+        position: absolute;
+        top: 0; }
+
+.mag-component-layout-list.horizontalMenu {
+    width: auto;
+    background: transparent; }
+    .mag-component-layout-list.horizontalMenu > .body {
+        display: table-row; }
+    .mag-component-layout-list.horizontalMenu .item {
+        display: table-cell;
+        width: 80px;
+        padding: 0; }
+        .mag-component-layout-list.horizontalMenu .item.focus > .mag-component-layout > .theme-icon {
+            color: #ffffff; }
+        .mag-component-layout-list.horizontalMenu .item > .mag-component-layout {
+            background: transparent;
+            width: 80px;
+            height: 80px;
+            position: relative;
+            display: block; }
+            .mag-component-layout-list.horizontalMenu .item > .mag-component-layout > .theme-icon:before {
+                width: 80px;
+                height: 80px;
+                line-height: 80px;
+                font-size: 45px;
+                display: block; }
+            .mag-component-layout-list.horizontalMenu .item > .mag-component-layout > .title {
+                display: none;
+                position: absolute;
+                width: 250px;
+                bottom: -30px;
+                left: -85px;
+                height: 22px;
+                line-height: 22px;
+                font-size: 22px;
+                color: #ffffff;
+                text-align: center; }
+    .mag-component-layout-list.horizontalMenu.focus .item.focus {
+        background: rgba(255, 255, 255, 0.7) !important;
+        border-radius: 160px; }
+        .mag-component-layout-list.horizontalMenu.focus .item.focus > .mag-component-layout > .icon {
+            color: #000; }
+    .mag-component-layout-list.horizontalMenu .item.focus {
+        background: transparent; }
+    .mag-component-layout-list.horizontalMenu.focus .item.focus .title {
+        display: block; }
+
+div {
+    -webkit-box-sizing: border-box; }
+
+.playerPanel {
+    width: 970px;
+    height: 65px; }
+    .playerPanel div {
+        -webkit-box-sizing: border-box; }
+    .playerPanel .spa-component-progress-bar {
+        height: 5px;
+        background: rgba(250, 250, 250, 0.3);
+        width: 100%;
+        overflow: hidden; }
+        .playerPanel .spa-component-progress-bar.hidden {
+            display: block;
+            visibility: hidden; }
+        .playerPanel .spa-component-progress-bar:nth-child(1) {
+            position: absolute;
+            top: 0;
+            left: 0; }
+            .playerPanel .spa-component-progress-bar:nth-child(1) .value {
+                background: rgba(250, 250, 250, 0.65); }
+        .playerPanel .spa-component-progress-bar:nth-child(2) > .value {
+            background: #2E7DFF;
+            position: relative; }
+            .playerPanel .spa-component-progress-bar:nth-child(2) > .value:before {
+                content: '';
+                display: block;
+                width: 7px;
+                height: 7px;
+                background: #ffffff;
+                position: absolute;
+                top: -1px;
+                right: 0; }
+        .playerPanel .spa-component-progress-bar.active > .value {
+            background-color: #a7c8ff; }
+    .playerPanel > .body {
+        height: 60px;
+        background: #165ACA;
+        width: 970px; }
+        .playerPanel > .body .leftText {
+            float: left;
+            height: 100%;
+            width: 20%;
+            line-height: 60px;
+            text-align: left;
+            padding-left: 44px; }
+        .playerPanel > .body .rightText {
+            float: left;
+            height: 100%;
+            width: 20%;
+            line-height: 60px;
+            text-align: right;
+            padding-right: 44px; }
+        .playerPanel > .body .buttonsWrapper {
+            float: left;
+            width: 60%;
+            height: 60px; }
+        .playerPanel > .body .playerButtons {
+            height: 60px;
+            width: auto;
+            margin: 0 auto;
+            background: transparent; }
+            .playerPanel > .body .playerButtons > .body {
+                height: 60px;
+                width: auto;
+                display: table-row; }
+            .playerPanel > .body .playerButtons .item {
+                width: 80px;
+                height: 60px;
+                overflow: hidden;
+                color: #ffffff;
+                display: table-cell;
+                padding: 0 !important; }
+                .playerPanel > .body .playerButtons .item.focus {
+                    background: transparent; }
+                .playerPanel > .body .playerButtons .item.disable {
+                    color: rgba(255, 255, 255, 0.2);
+                    background: transparent; }
+                    .playerPanel > .body .playerButtons .item.disable .channels {
+                        visibility: hidden; }
+                .playerPanel > .body .playerButtons .item .button {
+                    display: block;
+                    box-sizing: border-box;
+                    text-align: center;
+                    line-height: 80px;
+                    width: 80px;
+                    height: 80px;
+                    margin: -10px 0px;
+                    border-radius: 80px; }
+                    .playerPanel > .body .playerButtons .item .button .theme-icon:before {
+                        font-size: 50px;
+                        width: 80px; }
+            .playerPanel > .body .playerButtons.focus .item.focus .button {
+                background: rgba(255, 255, 255, 0.4);
+                color: #ffffff; }
+
+#info {
+    position: absolute;
+    height: 60px;
+    top: 50px;
+    right: 60px;
+    text-align: right;
+    padding: 0 22px;
+    display: none;
+    line-height: 60px;
+    z-index: 2; }
+    #info.bg {
+        background: rgba(0, 0, 0, 0.5); }
+    #info.visible {
+        display: block; }
+    #info > div {
+        float: left;
+        height: 60px; }
+
+#infoIcon {
+    font-family: 'icons';
+    font-size: 35px;
+    padding-right: 22px; }
+
+html, body {
+    background: transparent; }

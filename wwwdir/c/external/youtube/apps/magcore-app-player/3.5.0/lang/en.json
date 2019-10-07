@@ -1,0 +1,32 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "en",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Actions": "Actions",
+			"Aspect": "Aspect",
+			"Cancel": "Cancel",
+			"Display": "Display",
+			"Exit": "Exit",
+			"List": "List",
+			"Mute": "Mute",
+			"Mute On": "Mute On",
+			"Mute off": "Mute off",
+			"Off": "Off",
+			"Options": "Options",
+			"PiP": "PiP",
+			"Settings": "Settings",
+			"Sound": "Sound",
+			"Sound track": "Sound track",
+			"Subtitles": "Subtitles",
+			"Track": "Track",
+			"Volume level": "Volume level",
+			"player": "player",
+			"undefined": "undefined"
+		}
+	}
+}

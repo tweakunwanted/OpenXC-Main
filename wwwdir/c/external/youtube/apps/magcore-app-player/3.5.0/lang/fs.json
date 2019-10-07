@@ -1,0 +1,32 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "fs",
+		"plural": ""
+	},
+	"data": {
+		"": {
+			"Actions": "",
+			"Aspect": "",
+			"Cancel": "",
+			"Display": "",
+			"Exit": "",
+			"List": "",
+			"Mute": "",
+			"Mute On": "",
+			"Mute off": "",
+			"Off": "",
+			"Options": "",
+			"PiP": "",
+			"Settings": "",
+			"Sound": "",
+			"Sound track": "",
+			"Subtitles": "",
+			"Track": "",
+			"Volume level": "",
+			"player": "",
+			"undefined": ""
+		}
+	}
+}

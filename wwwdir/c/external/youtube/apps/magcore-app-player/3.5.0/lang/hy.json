@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "hy",
+		"plural": "n != 1"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "1 րոպե մինչ թայմշիֆթ բուֆերը կլցվի",
+			"Actions": "Գործողություններ",
+			"Aspect": "Ասպեկտ",
+			"Can not get current epg link": "Հնարավոր չէ ստանալ ներկայիս epg հղումը",
+			"Change audio track language": "Փոխել աուդիո ֆայլի լեզուն",
+			"Change video conversation mode": "Փոխել տեսանյութի խոսակցական ռեժիմը",
+			"Change volume level": "Փոփոխել ձայնի մակարդակը",
+			"Display": "Ցուցադրել",
+			"Enable/disable or change subtitles for current content playback": "Միացնել/անջատել կամ փոխել ընթացիկ նվագարկման ենթագրերը",
+			"Error playing content": "Նվագարկման սխալ",
+			"Exit": "Ելք",
+			"External track": "Այլ ձայնագրություն",
+			"Info": "Տեղեկատվություն",
+			"Letter box": "Փոստարկղ",
+			"List": "Ցանկ",
+			"Mount usb device!": "Մաունթ usb կրիչ",
+			"Mute": "Լուռ",
+			"Mute On": "Անջատել ձայնը",
+			"Mute all sound": "Անջատել բոլոր ձայները",
+			"Mute off": "Դուրս գալ ձայնի անջատման ռեժիմից",
+			"No": "Ոչ",
+			"Off": "Անջատել",
+			"Original": "Օրիգինալ",
+			"Pan&Scan": "Պանորամա և սկանավորում",
+			"PiP": "Պատկերը պատկերի մեջ",
+			"Settings": "Կարգավորումներ",
+			"Sound": "Ձայն",
+			"Sound track": "Սաունդթրեք",
+			"Subtitles": "Սուբտիտրեր",
+			"Timeshift buffer is full": "Ժամանակը ետ տալու բուֆերը լցված է",
+			"Track": "Ձայնագրություն",
+			"USB storage is full": "USB կրիչն ամբողջովին լցված է",
+			"USB storage unavailable": "USB կրիչն անհասանելի է",
+			"Volume level": "Ձայնի մակարդակ",
+			"Yes": "Այո",
+			"combined": "համակցված",
+			"enlarged": "ընդլայնված",
+			"external": "Այլ ձայնագրություն",
+			"optimal": "օպտիմալ",
+			"player": "նվագարկիչ",
+			"undefined": "չսահմանված"
+		}
+	}
+}

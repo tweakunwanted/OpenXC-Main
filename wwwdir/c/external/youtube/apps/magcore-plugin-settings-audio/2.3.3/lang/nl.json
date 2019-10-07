@@ -1,0 +1,28 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "nl",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Audio": "Audio",
+			"Audio Output Mode": "Audio-uitgang modus",
+			"Disabled": "Uitgeschakeld",
+			"Dynamic range compression": "Dynamisch bereik",
+			"HDMI Audio": "HDMI Audio",
+			"Initial volume level": "Oorspronkelijk volumeniveau",
+			"Max": "Max",
+			"Mono": "Mono",
+			"Mono Left": "Mono Links",
+			"Mono Right": "Mono Rechts",
+			"Operating mode": "Bedieningsfunctie",
+			"SPDIF Mode": "SPDIF Mode",
+			"Select the sound output mode: Mono, Stereo, Lt / Rt, etc.": "Selecteer de geluidsweergave: Mono, Stereo, Lt/Rt, etc.",
+			"Setting audio parameters": "Stel audio parameters in",
+			"Setting the initial volume level with which playback will be performed after switch on": "Stel het oorspronkelijke volumeniveau in: dit wordt na ingeschakelen direct afgespeeld",
+			"Stereo": "Stereo"
+		}
+	}
+}

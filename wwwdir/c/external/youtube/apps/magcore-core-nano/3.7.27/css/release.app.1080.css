@@ -1,0 +1,34 @@
+/* application: release */
+/*
+ *
+*/
+body {
+    background: transparent !important;
+    font-size: 33px; }
+
+#splashAppName {
+    position: relative;
+    top: 660px; }
+
+#splashAppVersion {
+    bottom: 42px;
+    right: 75px; }
+
+#loaderCenterNode > table {
+    border-spacing: 12px; }
+
+.app-icon {
+    width: 87px;
+    height: 87px; }
+
+.app-icon.tv {
+    background-image: url("../img/1920/tv.png"); }
+
+.app-icon.video {
+    background-image: url("../img/1920/video.png"); }
+
+.app-icon.audio {
+    background-image: url("../img/1920/audio.png"); }
+
+.app-icon.radio {
+    background-image: url("../img/1920/radio.png"); }

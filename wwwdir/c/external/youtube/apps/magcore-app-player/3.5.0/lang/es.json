@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "es",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "1 minuto antes de que se llene el búfer de TimeShift",
+			"Actions": "Acciones",
+			"Aspect": "Aspecto",
+			"Can not get current epg link": "El enlace epg actual no está disponible",
+			"Change audio track language": "Cambiar el idioma de la pista de audio",
+			"Change video conversation mode": "Cambiar el modo de conversación por vídeo",
+			"Change volume level": "Cambiar nivel de volumen",
+			"Display": "Mostrar",
+			"Enable/disable or change subtitles for current content playback": "Activar/desactivar o cambiar subtítulos para el contenido de la reproducción actual",
+			"Error playing content": "Error al reproducir el contenido",
+			"Exit": "Salir",
+			"External track": "Pista externa",
+			"Info": "Información",
+			"Letter box": "Buzón",
+			"List": "Lista",
+			"Mount usb device!": "¡Montar dispositivo usb!",
+			"Mute": "Silenciar",
+			"Mute On": "Silencio activado",
+			"Mute all sound": "Silenciar todos los sonidos",
+			"Mute off": "Silencio desactivado",
+			"No": "No",
+			"Off": "Desactivado",
+			"Original": "Original",
+			"Pan&Scan": "Pan&Scan",
+			"PiP": "PiP",
+			"Settings": "Ajustes",
+			"Sound": "Sonido",
+			"Sound track": "Pista de sonido",
+			"Subtitles": "Subtítulos",
+			"Timeshift buffer is full": "El búfer de TimeShift está lleno",
+			"Track": "Pista",
+			"USB storage is full": "El almacenamiento USB está lleno",
+			"USB storage unavailable": "El almacenamiento USB no está disponible",
+			"Volume level": "Nivel de volumen",
+			"Yes": "Sí",
+			"combined": "combinado",
+			"enlarged": "aumentado",
+			"external": "Pista externa",
+			"optimal": "óptimo",
+			"player": "reproductor",
+			"undefined": "sin definir"
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "sk",
+		"plural": "(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2"
+	},
+	"data": {
+		"": {
+			"Actions": "",
+			"Aspect": "",
+			"Cancel": "",
+			"Display": "",
+			"Exit": "",
+			"Mute": "",
+			"Mute On": "",
+			"Mute off": "",
+			"Off": "",
+			"Options": "",
+			"PiP": "",
+			"Settings": "",
+			"Sound": "",
+			"Sound track": "",
+			"Subtitles": "",
+			"Track": "",
+			"Volume level": ""
+		}
+	}
+}

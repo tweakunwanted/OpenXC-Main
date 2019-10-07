@@ -1,0 +1,96 @@
+{
+	"meta": {
+		"charset": "utf-8",
+		"project": "youtube.com 1.3.9",
+		"language": "en",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Adult content": "Adult content",
+			"Author": "Author",
+			"Back": "Back",
+			"Best": "Best",
+			"Cancel": "Cancel",
+			"Categories": "Categories",
+			"Choose default video quality": "Choose default video quality",
+			"Close Guide": "Close Guide",
+			"Default extension": "Default extension",
+			"Error playing": "Error playing",
+			"Exit": "Exit",
+			"Exit from app?": "Exit from app?",
+			"Forward": "Forward",
+			"Guide": "Guide",
+			"Hide unwanted content": "Hide unwanted content",
+			"In order to apply a new language, you must restart the application": "In order to apply a new language, you must restart the application",
+			"Interface language": "Interface language",
+			"Language": "Language",
+			"Live broadcasts are not supported": "Live broadcasts are not supported",
+			"Login": "Login",
+			"Logout": "Logout",
+			"Logout from application?": "Logout from application?",
+			"Main": "Main",
+			"More": "More",
+			"My playlists": "My playlists",
+			"Next": "Next",
+			"No videos": "No videos",
+			"Off": "Off",
+			"Ok": "Ok",
+			"On": "On",
+			"Pause": "Pause",
+			"Play": "Play",
+			"Playlists": "Playlists",
+			"Previous": "Previous",
+			"Related videos": "Related videos",
+			"Safe mode": "Safe mode",
+			"Search": "Search",
+			"Settings": "Settings",
+			"Sign in": "Sign in",
+			"Subscriptions": "Subscriptions",
+			"To the main": "To the main",
+			"Upload date": "Upload date",
+			"Uploads on the channel": "Uploads on the channel",
+			"Video is not available": "Video is not available",
+			"View": [
+				"View",
+				"Views"
+			],
+			"You want to login into app?": "You want to login into app?",
+			"Youtube": "Youtube",
+			"Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.": "Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.",
+			"ago": "ago",
+			"day": [
+				"day",
+				"days"
+			],
+			"hour": [
+				"hour",
+				"hours"
+			],
+			"minute": [
+				"minute",
+				"minutes"
+			],
+			"month": [
+				"month",
+				"months"
+			],
+			"second": [
+				"second",
+				"seconds"
+			],
+			"subscriber": [
+				"subscriber",
+				"subscribers"
+			],
+			"view": [
+				"view",
+				"views"
+			],
+			"year": [
+				"year",
+				"years"
+			]
+		}
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "uk",
+		"plural": "(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "1 хвилина до заповнення буферу timeshift",
+			"Actions": "Операції",
+			"Aspect": "Аспект",
+			"Can not get current epg link": "Не вдалося отримати посилання поточної передачі",
+			"Change audio track language": "Змінити аудіо доріжку",
+			"Change video conversation mode": "Змінити співвідношення сторін",
+			"Change volume level": "Уровень звука",
+			"Display": "Відображення",
+			"Enable/disable or change subtitles for current content playback": "Увімкнути/вимкнути або змінити субтитри для поточного відтворення вмісту",
+			"Error playing content": "Помилка відтворення контенту",
+			"Exit": "Вихід",
+			"External track": "Зовнішня доріжка",
+			"Info": "Опис",
+			"Letter box": "Поштова скринька",
+			"List": "Лист",
+			"Mount usb device!": "Підключіть usb пристрій!",
+			"Mute": "Без звуку",
+			"Mute On": "Без звуку",
+			"Mute all sound": "Вимкнути звук",
+			"Mute off": "Звук вкл",
+			"No": "Ні",
+			"Off": "Викл",
+			"Original": "Оригінал",
+			"Pan&Scan": "Паноравмне сканування",
+			"PiP": "Зображення у зображенні",
+			"Settings": "Налаштування",
+			"Sound": "Звук",
+			"Sound track": "Звукова дорожка",
+			"Subtitles": "Субтітри",
+			"Timeshift buffer is full": "Timeshift буфер заповнений",
+			"Track": "Трек",
+			"USB storage is full": "Немає вільного місця на USB пристрої",
+			"USB storage unavailable": "USB пристрій недоступний",
+			"Volume level": "Уровень звука",
+			"Yes": "Так",
+			"combined": "комбінований",
+			"enlarged": "збільшений",
+			"external": "Зовнішня доріжка",
+			"optimal": "оптимальний",
+			"player": "Відображення",
+			"undefined": "не визначено"
+		}
+	}
+}

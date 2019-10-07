@@ -1,0 +1,14 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "el",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Device is disconnected": "Η συσκευή έχει αποσυνδεθεί",
+			"New device is connected": "Η νέα συσκευή είναι συνδεδεμένη"
+		}
+	}
+}

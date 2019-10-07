@@ -1,0 +1,105 @@
+{
+	"meta": {
+		"charset": "utf-8",
+		"project": "youtube.com 1.2.3",
+		"language": "uk",
+		"plural": "(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"Adult content": "Cховати небажаний контент",
+			"Author": "Автор",
+			"Back": "Назад",
+			"Best": "Кращі",
+			"Cancel": "Скасувати",
+			"Categories": "Категорії",
+			"Choose default video quality": "Якість відео за замовчуваннями",
+			"Close Guide": "Закрити гід",
+			"Default extension": "Оберіть якість відео за замовчуваннями",
+			"Error playing": "Помилка програшу",
+			"Exit": "Вихід",
+			"Exit from app?": "Вихід з програми?",
+			"Forward": "Уперед",
+			"Guide": "Гід",
+			"Hide unwanted content": "Cховати небажаний контент",
+			"In order to apply a new language, you must restart the application": "Для того, щоб застосувати нову мову, ви повинні перезапустити додаток",
+			"Interface language": "Мова інтерфейсу",
+			"Language": "Мова",
+			"Live broadcasts are not supported": "Прямі трансляції не підтримуються",
+			"Login": "Ввійти",
+			"Logout": "Вийти",
+			"Logout from application?": "Вихід з облікового запису?",
+			"Main": "Головна",
+			"More": "Детальніше",
+			"My playlists": "Мої плейлисти",
+			"Next": "Наступний",
+			"No videos": "Нема відео",
+			"Off": "Виключено",
+			"Ok": "Добре",
+			"On": "Включено",
+			"Pause": "Пауза",
+			"Play": "Грати",
+			"Playlists": "Плейлисти",
+			"Previous": "Попередній",
+			"Related videos": "Схожі відео",
+			"Safe mode": "Безпечний режим",
+			"Search": "Пошук",
+			"Settings": "Налаштування",
+			"Sign in": "Увійти",
+			"Subscriptions": "Підписки",
+			"To the main": "На головну",
+			"Upload date": "Дата завантаження",
+			"Uploads on the channel": "Завантаження на каналі",
+			"Video is not available": "Відео не доступно",
+			"View": [
+				"Прогляд",
+				"Прогляди",
+				"Проглядів"
+			],
+			"You want to login into app?": "Ви хочете увійти до свого облікового запису?",
+			"Youtube": "Youtube",
+			"Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.": "Youtube.com популярний світовий відеохостинг, де користувачі можуть додавати, переглядати, коментувати і ділитися з друзями відеозаписами.",
+			"ago": "тому",
+			"day": [
+				"день",
+				"дня",
+				"днів"
+			],
+			"hour": [
+				"година",
+				"години",
+				"годин"
+			],
+			"minute": [
+				"хвилина",
+				"хвилини",
+				"хвилин"
+			],
+			"month": [
+				"місяць",
+				"місяці",
+				"місяців"
+			],
+			"second": [
+				"секунда",
+				"секунди",
+				"секунд"
+			],
+			"subscriber": [
+				"передплатник",
+				"передплатника",
+				"передплатників"
+			],
+			"view": [
+				"перегляд",
+				"перегляди",
+				"переглядів"
+			],
+			"year": [
+				"рік",
+				"роки",
+				"років"
+			]
+		}
+	}
+}

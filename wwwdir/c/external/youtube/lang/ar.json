@@ -1,0 +1,100 @@
+{
+	"meta": {
+		"charset": "utf-8",
+		"project": "youtube.com 1.2.3",
+		"language": "",
+		"plural": "((n==1)?(0):((n==0)?(1):((n==2)?(2):((((n%100)>=3)&&((n%100)<=10))?(3):((((n%100)>=11)&&((n%100)<=99))?(4):5)))))"
+	},
+	"data": {
+		"": {
+			"Adult content": "",
+			"Author": "",
+			"Back": "",
+			"Best": "",
+			"Cancel": "",
+			"Categories": "",
+			"Choose default video quality": "",
+			"Close Guide": "",
+			"Default extension": "",
+			"Error playing": "",
+			"Exit": "",
+			"Exit from app?": "",
+			"Forward": "",
+			"Guide": "",
+			"Hide unwanted content": "",
+			"In order to apply a new language, you must restart the application": "",
+			"Interface language": "",
+			"Language": "",
+			"Live broadcasts are not supported": "",
+			"Login": "",
+			"Logout": "",
+			"Logout from application?": "",
+			"Main": "",
+			"More": "",
+			"My playlists": "",
+			"Next": "",
+			"No videos": "",
+			"Off": "",
+			"Ok": "",
+			"On": "",
+			"Pause": "",
+			"Play": "",
+			"Playlists": "",
+			"Previous": "",
+			"Related videos": "",
+			"Safe mode": "",
+			"Search": "",
+			"Settings": "",
+			"Sign in": "",
+			"Subscriptions": "",
+			"To the main": "",
+			"Upload date": "",
+			"Uploads on the channel": "",
+			"Video is not available": "",
+			"View": [
+				"",
+				"",
+				"",
+				"",
+				"",
+				""
+			],
+			"You want to login into app?": "",
+			"Youtube": "",
+			"Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.": "",
+			"ago": "",
+			"day": [
+				"",
+				""
+			],
+			"hour": [
+				"",
+				""
+			],
+			"minute": [
+				"",
+				""
+			],
+			"month": [
+				"",
+				""
+			],
+			"second": [
+				"",
+				""
+			],
+			"subscriber": [
+				"",
+				""
+			],
+			"view": [
+				"",
+				""
+			],
+			"year": [
+				"",
+				""
+			]
+		}
+	}
+}

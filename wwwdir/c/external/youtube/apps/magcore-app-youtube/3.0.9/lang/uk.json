@@ -1,0 +1,75 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "uk",
+		"plural": "(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"Author": "Автор",
+			"Back": "Назад",
+			"Best": "Кращі",
+			"Cancel": "Скасувати",
+			"Close Guide": "Закрити гід",
+			"Exit": "Вихід",
+			"Exit from app?": "Вихід з програми?",
+			"Guide": "Гід",
+			"In order to apply a new language, you must restart the application": "Для того, щоб застосувати нову мову, ви повинні перезапустити додаток",
+			"Interface language": "Мова інтерфейсу",
+			"Language": "Мова",
+			"Live broadcasts are not supported": "Прямі трансляції не підтримуються",
+			"Main": "Головна",
+			"No videos": "Нема відео",
+			"Off": "Виключено",
+			"Ok": "Добре",
+			"On": "Включено",
+			"Search": "Пошук",
+			"Settings": "Налаштування",
+			"Video is not available": "Відео не доступно",
+			"Youtube": "Youtube",
+			"Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.": "Youtube.com популярний світовий відеохостинг, де користувачі можуть додавати, переглядати, коментувати і ділитися з друзями відеозаписами.",
+			"ago": "тому",
+			"day": [
+				"день",
+				"дня",
+				"днів"
+			],
+			"hour": [
+				"година",
+				"години",
+				"годин"
+			],
+			"minute": [
+				"хвилина",
+				"хвилини",
+				"хвилин"
+			],
+			"month": [
+				"місяць",
+				"місяці",
+				"місяців"
+			],
+			"second": [
+				"секунда",
+				"секунди",
+				"секунд"
+			],
+			"subscriber": [
+				"передплатник",
+				"передплатника",
+				"передплатників"
+			],
+			"view": [
+				"перегляд",
+				"перегляди",
+				"переглядів"
+			],
+			"year": [
+				"рік",
+				"роки",
+				"років"
+			]
+		}
+	}
+}

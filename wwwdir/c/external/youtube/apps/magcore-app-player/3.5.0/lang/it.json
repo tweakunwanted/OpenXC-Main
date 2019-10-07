@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "it",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "1 minuto prima che il buffer del timeshift si riempia",
+			"Actions": "Azioni",
+			"Aspect": "Aspetto",
+			"Can not get current epg link": "Non riesco a recuperare il link dell'epg",
+			"Change audio track language": "Cambia lingua audio",
+			"Change video conversation mode": "Passa alla modalità conversazione",
+			"Change volume level": "Cambia il livello del volume",
+			"Display": "Visualizza",
+			"Enable/disable or change subtitles for current content playback": "Abilita/disabilita o cambia i sottotitoli per il video corrente",
+			"Error playing content": "Errore nella riproduzione del contenuto",
+			"Exit": "Esci",
+			"External track": "Traccia esterna",
+			"Info": "Info",
+			"Letter box": "Letter box",
+			"List": "Elenco",
+			"Mount usb device!": "Monta il dispositivo USB!",
+			"Mute": "Mute",
+			"Mute On": "Mute On",
+			"Mute all sound": "Disattiva tutti i suoni",
+			"Mute off": "Mute off",
+			"No": "No",
+			"Off": "Off",
+			"Original": "Originale",
+			"Pan&Scan": "Pan&Scan",
+			"PiP": "PiP (immagine nell'immagine)",
+			"Settings": "Impostazioni",
+			"Sound": "Suono",
+			"Sound track": "Sound track",
+			"Subtitles": "Sottotitoli",
+			"Timeshift buffer is full": "Il buffer per il timeshift è pieno",
+			"Track": "Track",
+			"USB storage is full": "Il dispositivo di memorizzazione USB è pieno",
+			"USB storage unavailable": "Il dispositivo di memorizzazione USB non è disponibile",
+			"Volume level": "Livello volume",
+			"Yes": "Si",
+			"combined": "combinato",
+			"enlarged": "ingrandito",
+			"external": "Traccia esterna",
+			"optimal": "ottimale",
+			"player": "lettore",
+			"undefined": "non definito"
+		}
+	}
+}

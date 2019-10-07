@@ -1,0 +1,14 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "bg",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Device is disconnected": "Устройството не е свързано",
+			"New device is connected": "Беше свързано ново устройство"
+		}
+	}
+}

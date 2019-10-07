@@ -1,0 +1,28 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "de",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Audio": "",
+			"Audio Output Mode": "",
+			"Disabled": "",
+			"Dynamic range compression": "",
+			"HDMI Audio": "",
+			"Initial volume level": "",
+			"Max": "",
+			"Mono": "",
+			"Mono Left": "",
+			"Mono Right": "",
+			"Operating mode": "",
+			"SPDIF Mode": "",
+			"Select the sound output mode: Mono, Stereo, Lt / Rt, etc.": "",
+			"Setting audio parameters": "",
+			"Setting the initial volume level with which playback will be performed after switch on": "",
+			"Stereo": ""
+		}
+	}
+}

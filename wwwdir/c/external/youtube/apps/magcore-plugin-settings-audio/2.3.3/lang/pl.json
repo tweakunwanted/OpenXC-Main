@@ -1,0 +1,28 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "pl",
+		"plural": "(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"Audio": "Audio",
+			"Audio Output Mode": "Tryby wyjść Audio",
+			"Disabled": "Wyłączony",
+			"Dynamic range compression": "Kompresja zakresu dynamicznego",
+			"HDMI Audio": "HDMI Audio",
+			"Initial volume level": "Początkowy poziom głośności",
+			"Max": "Maks",
+			"Mono": "Mono",
+			"Mono Left": "Lewy Mono",
+			"Mono Right": "Prawy Mono",
+			"Operating mode": "Tryb pracy",
+			"SPDIF Mode": "Tryb SPDIF",
+			"Select the sound output mode: Mono, Stereo, Lt / Rt, etc.": "Wybierz tryb wyjścia dźwięku: Mono, Stereo, Lewy/Prawy, itp.",
+			"Setting audio parameters": "Ustaw parametry dźwięku",
+			"Setting the initial volume level with which playback will be performed after switch on": "Ustaw początkowy poziom głośności odtwarzania który będzie uruchamiany po włączeniu",
+			"Stereo": "Stereo"
+		}
+	}
+}

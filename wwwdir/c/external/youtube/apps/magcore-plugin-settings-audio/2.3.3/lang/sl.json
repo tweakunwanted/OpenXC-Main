@@ -1,0 +1,28 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "sl",
+		"plural": "(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3)"
+	},
+	"data": {
+		"": {
+			"Audio": "Avdio",
+			"Audio Output Mode": "Način avdio izhoda",
+			"Disabled": "Onemogočeno",
+			"Dynamic range compression": "Kompresija dinamičnega območja",
+			"HDMI Audio": "HDMI avdio",
+			"Initial volume level": "Začetna glasnost",
+			"Max": "Max",
+			"Mono": "Mono",
+			"Mono Left": "Mono levo",
+			"Mono Right": "Mono desno",
+			"Operating mode": "Način delovanja",
+			"SPDIF Mode": "Način SPDIF",
+			"Select the sound output mode: Mono, Stereo, Lt / Rt, etc.": "Izberi način avdio izhoda: Mono, Stereo, L / D, itd.",
+			"Setting audio parameters": "Nastavitve avdio parametrov",
+			"Setting the initial volume level with which playback will be performed after switch on": "Nastavitev začetne glasnosti, s katero se bo predvajanje izvajalo po vklopu",
+			"Stereo": "Stereo"
+		}
+	}
+}

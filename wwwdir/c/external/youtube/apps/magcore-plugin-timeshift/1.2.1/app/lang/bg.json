@@ -1,0 +1,34 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "bg",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Buffer usage mode is determined by the parameters: Cyclic overwrite - recording to the buffer is performed cyclically, once it is full the repeated record is made. Stop on filling - the record ends after the storage space is over.": "Режим на използване на буфера зависи от параметрите: Циклично презаписване - записването върху буфера се осъществява циклично, след завършването на което се прави многократното записване. Спри при запълване - записът приключва след като пространството се запълни.",
+			"By pressing Pause Button": "Чрез натискане на бутона Пауза",
+			"Cyclic record mode": "Режим на цикличен запис",
+			"Delay": "Закъснение",
+			"Delay before the recording start by the TimeShift function.": "Забавяне преди започването на запис чрез функцията TimeShift.",
+			"Do not save buffer": "Не запаметявай буфера",
+			"Enable Timeshift function.": "Включи Timeshift функция.",
+			"Enable timeshift": "Включи timeshift",
+			"Length": "Дължина",
+			"On exit": "При изход",
+			"Request to save": "Заявка за запазване",
+			"Save buffer": "Запазване на буфера",
+			"Setting save content on exit (completion of TimeShift function use).": "Настройване на записаното съдържание при излизане (завършване при използване на функция TimeShift).",
+			"Setting the recording duration made by TimeShift.": "Настройване на продължителността на записа, извършена от TimeShift.",
+			"Stop when out of space": "Спри когато пространството се изчерпи",
+			"TimeShift function allows you to record the broadcast of a channel on the USB-stick by pressing the \"Pause\" button on the remote control. When you press the \"Pause\" button again, the recording will continue and the channel will start playing from the storage device starting from the moment you first pressed the \"Pause\" button.": "Функцията TimeShift ви позволява да записвате излъчвания на канал върху USB-стик с натискането на бутона \"Пауза\" на дистанционното. Когато натиснете бутона \"Пауза\" отново, записът о ще продължи и каналът ще започне да се възпроизвежда от устройството за съхранение, продължавайки от първия момент в който който натиснахте бутона \"Пауза\".",
+			"Timeshift": "",
+			"Using buffer mode": "Използване на буферния режим",
+			"hour": "час",
+			"hours": "часове",
+			"min": "мин",
+			"sec": "сек"
+		}
+	}
+}

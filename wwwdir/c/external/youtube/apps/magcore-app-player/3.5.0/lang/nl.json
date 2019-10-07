@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "nl",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "De buffer is 1 minuut voor de timeshift vol",
+			"Actions": "Handelingen",
+			"Aspect": "Aspect",
+			"Can not get current epg link": "Huidige epg link kan niet geopend worden",
+			"Change audio track language": "Wijzig taal van audionummer",
+			"Change video conversation mode": "Wijzig video conversatie modus",
+			"Change volume level": "Wijzig volumeniveau",
+			"Display": "Weergeven",
+			"Enable/disable or change subtitles for current content playback": "Inschakelen/uitschakelen of wijzigen van de ondertiteling voor de huidige inhoudsweergave",
+			"Error playing content": "Fout afgespeelde inhoud",
+			"Exit": "Afsluiten",
+			"External track": "Extern nummer",
+			"Info": "Info",
+			"Letter box": "Postbus",
+			"List": "Lijst",
+			"Mount usb device!": "Bevestig usb stick!",
+			"Mute": "Dempen",
+			"Mute On": "Dempen aan",
+			"Mute all sound": "Alle geluid dempen",
+			"Mute off": "Dempen uit",
+			"No": "Nee",
+			"Off": "Uit",
+			"Original": "Origineel",
+			"Pan&Scan": "Pan&Scan",
+			"PiP": "PiP",
+			"Settings": "Instellingen",
+			"Sound": "Geluid",
+			"Sound track": "Sound track",
+			"Subtitles": "Ondertitels",
+			"Timeshift buffer is full": "Timeshift buffer vol",
+			"Track": "Nummer",
+			"USB storage is full": "USB opslag is vol",
+			"USB storage unavailable": "USB opslag niet beschikbaar",
+			"Volume level": "Volumeniveau",
+			"Yes": "Ja",
+			"combined": "gecombineerd",
+			"enlarged": "uitvergroot",
+			"external": "Extern nummer",
+			"optimal": "optimaal",
+			"player": "speler",
+			"undefined": "onbestemd"
+		}
+	}
+}

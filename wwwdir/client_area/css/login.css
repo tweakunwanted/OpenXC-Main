@@ -1,0 +1,131 @@
+﻿hmtl, body
+{
+    font: 12px 'Lucida Sans Unicode', 'Trebuchet MS', Arial, Helvetica;
+    margin: 0;
+	background-image: url(../images/back.png);
+}
+
+
+
+/*------------------Arrow and Logo---------------------*/
+
+#logo
+{
+	background-image: url(../images/logo_login.png);
+	background-repeat:no-repeat;
+	width:320px;
+	height:100px;
+	margin-top:5px;
+	margin-left:5px;
+	position:absolute;
+  
+}
+/*------------------ End Arrow and Logo -----------------*/
+
+/*------------- Login-Register-Forgot Form -------------*/
+#login
+{
+	background-image:url(../images/form_back.png);
+	background-repeat:no-repeat;
+	width:337px;
+	height:100px;
+	margin-top:200px;
+	margin-left:20px;
+	position:absolute;
+}
+
+
+#inputs_login
+{
+	height:60px;
+	border:hidden;
+	top:10px;
+	width:323px;
+	position:relative;
+}
+
+
+#username,#password
+{
+	font-size:13px;
+	color: #FFF;
+	background-color:#181818;
+	border:hidden;
+	width:80%;
+}
+
+#wrong_user_information{
+	width:300px;
+	height:20px;
+	background-color:#7e0407;
+	margin-top:-150px;
+	border-radius:10px;
+	color:#FFF;
+	font-size:13px;
+
+}
+
+#submit
+{
+	cursor:pointer;
+	width:354px;
+	height:86px;
+	background:url(../images/login_button.png);
+	border:hidden;
+	margin-top:119px;
+	margin-left:-18px;
+	
+	
+}
+#submit:hover
+{
+	background-image:url(../images/login_button_hover.png);
+}
+
+/*------------ End Login-Register-Forgot Form----------------*/
+
+#CompanyName
+{
+	color:#7d0306;
+}
+
+#CompanyName:hover
+{
+	color:#FFF;
+}	
+
+#actions
+{
+	border:hidden;
+	width:323px;
+	position:absolute;
+}
+
+a{
+	color:#000;
+}
+
+a:hover
+{
+	color:#900;
+}	
+
+#loginLink,
+{
+	position:absolute;
+	margin-left:-10px;
+	margin-top:10px;		
+}
+
+/*-------------------- Credits ----------------------*/
+#credits
+{
+	color:#272727;
+	margin-left:36%;
+	margin-top:250px;
+	font-weight:bold;
+	font-size:14px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+
+

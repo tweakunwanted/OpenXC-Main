@@ -1,0 +1,39 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "gr",
+		"plural": "EXPRESSION"
+	},
+	"data": {
+		"": {
+			"Actions": "",
+			"All categories": "",
+			"By name": "",
+			"By number": "",
+			"Cancel": "",
+			"Categories": "",
+			"Channel is temporary unavailable": "",
+			"Channel list": "",
+			"Channel {0} was added": "",
+			"Exit": "",
+			"Favorite": "",
+			"Menu": "",
+			"No such channel number": "",
+			"Play": "",
+			"Record": "",
+			"Reset filters": "",
+			"Search": "",
+			"Sort": "",
+			"Tv program": "",
+			"{0} channel was added": [
+				"",
+				""
+			],
+			"{0} channel was deleted": [
+				"",
+				""
+			]
+		}
+	}
+}

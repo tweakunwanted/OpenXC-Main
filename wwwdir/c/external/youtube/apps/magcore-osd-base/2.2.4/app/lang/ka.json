@@ -1,0 +1,14 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "ka",
+		"plural": "0"
+	},
+	"data": {
+		"": {
+			"Device is disconnected": "მოწყობილობა გამოერთებულია",
+			"New device is connected": "ახალი მოწყობილობა დაკავშირებულია"
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "gr",
+		"plural": ""
+	},
+	"data": {
+		"": {
+			"Actions": "",
+			"Aspect": "",
+			"Cancel": "",
+			"Display": "",
+			"Exit": "",
+			"Mute": "",
+			"Mute On": "",
+			"Mute off": "",
+			"Off": "",
+			"Options": "",
+			"PiP": "",
+			"Settings": "",
+			"Sound": "",
+			"Sound track": "",
+			"Subtitles": "",
+			"Track": "",
+			"Volume level": ""
+		}
+	}
+}

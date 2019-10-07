@@ -1,0 +1,50 @@
+/* spa-app: release */
+html, body {
+    height: 576px;
+    width: 720px;
+    font-size: 18px;
+    font-family: Ubuntu, sans-serif;
+    overflow: hidden;
+    margin: 0;
+    padding: 0; }
+
+table {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 0; }
+    table td {
+        padding: 0; }
+
+.maxh {
+    height: 100%; }
+
+.maxw {
+    width: 100%; }
+
+a {
+    text-decoration: none; }
+
+.invisible {
+    visibility: hidden; }
+
+/* stb-app: release */
+html, body {
+    -webkit-user-select: none; }
+
+/* mag-app: release */
+
+.stb-component-page {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 720px;
+    height: 576px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    visibility: hidden;
+    overflow: hidden; }
+    .stb-component-page.hidden {
+        display: none; }
+    .stb-component-page.active {
+        visibility: inherit; }
+

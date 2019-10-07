@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "pt",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "",
+			"Actions": "",
+			"Aspect": "",
+			"Can not get current epg link": "",
+			"Change audio track language": "",
+			"Change video conversation mode": "",
+			"Change volume level": "",
+			"Display": "",
+			"Enable/disable or change subtitles for current content playback": "",
+			"Error playing content": "",
+			"Exit": "",
+			"External track": "",
+			"Info": "",
+			"Letter box": "",
+			"List": "",
+			"Mount usb device!": "",
+			"Mute": "",
+			"Mute On": "",
+			"Mute all sound": "",
+			"Mute off": "",
+			"No": "",
+			"Off": "",
+			"Original": "",
+			"Pan&Scan": "",
+			"PiP": "",
+			"Settings": "",
+			"Sound": "",
+			"Sound track": "",
+			"Subtitles": "",
+			"Timeshift buffer is full": "",
+			"Track": "",
+			"USB storage is full": "",
+			"USB storage unavailable": "",
+			"Volume level": "",
+			"Yes": "",
+			"combined": "",
+			"enlarged": "",
+			"external": "",
+			"optimal": "",
+			"player": "",
+			"undefined": ""
+		}
+	}
+}

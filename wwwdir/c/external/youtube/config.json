@@ -1,0 +1,81 @@
+{
+	"menu": {
+		"categories": {
+			"GCTXVzaWM"							: "Music",
+			"GCQ29tZWR5"						: "Comedy",
+			"GCRmlsbSAmIEVudGVydGFpbm1lbnQ"		: "Film & Entertainment",
+			"GCR2FtaW5n"						: "Gaming",
+			"GCQmVhdXR5ICYgRmFzaGlvbg"			: "Beauty & Fashion",
+			"GCQXV0b21vdGl2ZQ"					: "Automotive",
+			"GCQW5pbWF0aW9u"					: "Animation",
+			"GCU3BvcnRz"						: "Sports",
+			"GCVGVjaA"							: "Tech",
+			"GCU2NpZW5jZSAmIEVkdWNhdGlvbg"		: "Science & Education",
+			"GCQ29va2luZyAmIEhlYWx0aA"			: "Cooking & Health",
+			"GCTmV3cyAmIFBvbGl0aWNz"			: "News & Politics"
+		},
+		"searchQueries": {
+		},
+		"playlists": {
+		},
+		"channels": {
+		}
+	},
+	"keys": [
+		{
+			"key": "AIzaSyCFtsKHmupT42nYB2HO_xiwMIrkWe4CD3c",
+			"clientId": "895845560876-qjjm81ia09i3fnm8mc11iigpihgkoi3j.apps.googleusercontent.com",
+			"secret": "B6kaxH4dv9FOo46ytNrpjQoe"
+		},
+		{
+			"key": "AIzaSyCPvRBlfKildCSlj5DDOcb9Fs95EmtOacE",
+			"clientId": "349046412920-hfhdq3g8scufutm1sro38td9s37e2cbk.apps.googleusercontent.com",
+			"secret": "HzOWNQ1UpZIx8CeTBFxQ07LW"
+		},
+		{
+			"key": "AIzaSyCnxb79dFiasdRY8P97ODbktCMD8YI2VWE",
+			"clientId": "689111474674-562vccmt83vrb6rdvjcn0hikovkau8hb.apps.googleusercontent.com",
+			"secret": "RAdZFSj_e4pydvDgZbABJa0S"
+		},
+		{
+			"key": "AIzaSyBJtwbtDWnO_51qlLIDuLUWG86oz_-sSds",
+			"clientId": "144706597389-srt9njj3dpqmu6dcr7bkrcve2edstbfr.apps.googleusercontent.com",
+			"secret": "8EOQyuNtPcwbJGezDAQlu75p"
+		},
+		{
+			"key": "AIzaSyDQfj7JOJ0qV8SVPO8Kd7rWukO67DqJoPw",
+			"clientId": "569405798132-h4l4jsep074ecd9m21dkcc2cv7g6vjdr.apps.googleusercontent.com",
+			"secret": "-pJx7TZRpocGZptHaIj-2E6a"
+		},
+		{
+			"key": "AIzaSyB6RE6er23jYNhfjpIAZQFTzYANA4tD7UE",
+			"clientId": "958606677143-u2sdps91t3hn9rtovo9votsev1cgbt8b.apps.googleusercontent.com",
+			"secret": "c9BjHdqcSGPz2TR_6Gc2ayda"
+		},
+		{
+			"key": "AIzaSyAaQz_3wnGIXeypQCqXYqedn2lABb24fOk",
+			"clientId": "641838372513-fdtm1n6u4pkpc15rlk4a622psa1bpr2b.apps.googleusercontent.com",
+			"secret": "inIoSpBn6FUJgkEJOaTREwAK"
+		},
+		{
+			"key": "AIzaSyAWY8SPHghQ4oNJiuPAHR3zXABCnxy1-yU",
+			"clientId": "502061557914-6l7g6g5oupmjna1ahof515n7m7t4tcnt.apps.googleusercontent.com",
+			"secret": "jTJVh61LhfL_q7GvBpsm-h4A"
+		},
+		{
+			"key": "AIzaSyANDF5Kb9HK4s3JFcrfPUKkv8ekVvu3g_c",
+			"clientId": "625588684003-a54o6h04ec0sd67mjqg3gm2u4usoaqgg.apps.googleusercontent.com",
+			"secret": "09989bR88wY2ZRxbXzEpqsnP"
+		},
+		{
+			"key": "AIzaSyBgFzDpKRk-lIM0M0px4UI5XFTTPxVRKC4",
+			"clientId": "905211739548-flk0u3rmr3u9e38jnc27s27q5f2l0aue.apps.googleusercontent.com",
+			"secret": "js2dle0O8Jb3GQUE4Wey2jLp"
+		},
+		{
+			"key": "AIzaSyDFaVMNGIxOCHkzuF4oI0LB_x5qgrWxO_Y",
+			"clientId": "758649996546-1bbqak2ria9u3pibl8ca0rs532ehpggu.apps.googleusercontent.com",
+			"secret": "1wscmb0Z-L9ou_rTJ0O8aijz"
+		}
+	]
+}

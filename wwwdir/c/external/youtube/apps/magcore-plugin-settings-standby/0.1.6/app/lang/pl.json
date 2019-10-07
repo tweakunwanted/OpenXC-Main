@@ -1,0 +1,17 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "pl",
+		"plural": "(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"Active": "",
+			"Deep": "",
+			"Mode": "",
+			"Selecting standby mode: \n Deep - all applications complete their work \n Active - most of the systems work, the screen dims and the player stops \n These modes are activated by pressing the Power button on the remote control.": "",
+			"Stand by mode": ""
+		}
+	}
+}

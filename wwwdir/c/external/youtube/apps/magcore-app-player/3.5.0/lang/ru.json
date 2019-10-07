@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "ru",
+		"plural": "(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "1 минуты до заполнения буфера timeshift",
+			"Actions": "Опции",
+			"Aspect": "Аспект",
+			"Can not get current epg link": "Не удалось получить ссылку текущей передачи.",
+			"Change audio track language": "Изменить аудио дорожку.",
+			"Change video conversation mode": "Изменить соотношение сторон.",
+			"Change volume level": "Уровень звука",
+			"Display": "Изображение",
+			"Enable/disable or change subtitles for current content playback": "Включить/ выключить или поменять субтитры.",
+			"Error playing content": "Ошибка воспроизведения контента",
+			"Exit": "Выход",
+			"External track": "Внешняя дорожка",
+			"Info": "Описание",
+			"Letter box": "Почтовый ящик",
+			"List": "Список",
+			"Mount usb device!": "Подключите usb устройство!",
+			"Mute": "Без звука",
+			"Mute On": "Без звука",
+			"Mute all sound": "Выключить звук",
+			"Mute off": "Звук вкл",
+			"No": "Нет",
+			"Off": "Выкл",
+			"Original": "Оригинал",
+			"Pan&Scan": "Панорамное сканирование",
+			"PiP": "Картинка в картинке",
+			"Settings": "Настройки",
+			"Sound": "Звук",
+			"Sound track": "Звуковая дорожка",
+			"Subtitles": "Субтитры",
+			"Timeshift buffer is full": "Не указана папка для записи timeshift",
+			"Track": "Трек",
+			"USB storage is full": "Нет свободного места на usb устройстве",
+			"USB storage unavailable": "USB устройство недоступно",
+			"Volume level": "Уровень звука",
+			"Yes": "Да",
+			"combined": "комбинированный",
+			"enlarged": "увеличенный",
+			"external": "Внешняя дорожка",
+			"optimal": "оптимальный",
+			"player": "Изображение",
+			"undefined": "не определено"
+		}
+	}
+}

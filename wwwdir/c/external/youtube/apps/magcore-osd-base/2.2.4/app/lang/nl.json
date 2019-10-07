@@ -1,0 +1,14 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "nl",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Device is disconnected": "Apparaat is losgekoppeld",
+			"New device is connected": "Nieuw apparaat is aangesloten"
+		}
+	}
+}

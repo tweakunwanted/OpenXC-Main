@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "sl",
+		"plural": "(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3)"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "1 minuta do zapolnitve medpomnilnika časovnega zamika",
+			"Actions": "Dejanja",
+			"Aspect": "Razmerje",
+			"Can not get current epg link": "Trenutne povezave epg ni mogoče pridobiti",
+			"Change audio track language": "Spremeni jezik zvočnega posnetka",
+			"Change video conversation mode": "Spremeni način video pogovora",
+			"Change volume level": "Spremeni glasnost",
+			"Display": "Prikaži",
+			"Enable/disable or change subtitles for current content playback": "Omogoči/onemogoči ali spremeni podnapise za trenutno predvajano vsebino",
+			"Error playing content": "Napaka pri predvajanju vsebine",
+			"Exit": "Izhod",
+			"External track": "Zunanji posnetek",
+			"Info": "Podatki",
+			"Letter box": "Letter box",
+			"List": "Seznam",
+			"Mount usb device!": "Vpni usb napravo!",
+			"Mute": "Brez zvoka",
+			"Mute On": "Način brez zvoka je vključen",
+			"Mute all sound": "Izklopi vse zvoke",
+			"Mute off": "Način brez zvoka je izključen",
+			"No": "Ne",
+			"Off": "Izključeno",
+			"Original": "Original",
+			"Pan&Scan": "Pan&Scan",
+			"PiP": "PiP (slika v sliki)",
+			"Settings": "Nastavitve",
+			"Sound": "Zvok",
+			"Sound track": "Zvočni posnetek",
+			"Subtitles": "Podnapisi",
+			"Timeshift buffer is full": "Medpomnilnik časovnega zamika je poln",
+			"Track": "Posnetek",
+			"USB storage is full": "USB hranilnik je poln",
+			"USB storage unavailable": "USB hranilnik ni na voljo",
+			"Volume level": "Raven glasnosti",
+			"Yes": "Da",
+			"combined": "kombinirano",
+			"enlarged": "razširjeno",
+			"external": "Zunanji posnetek",
+			"optimal": "optimalno",
+			"player": "predvajalnik",
+			"undefined": "nedoločeno"
+		}
+	}
+}

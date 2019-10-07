@@ -1,0 +1,53 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "pl",
+		"plural": "(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)"
+	},
+	"data": {
+		"": {
+			"1 minute before timeshift buffer turns full": "",
+			"Actions": "Działania",
+			"Aspect": "Wygląd",
+			"Can not get current epg link": "Nie można uzyskać obecnego linku epg",
+			"Change audio track language": "Zmień język ścieżki dźwiękowej ",
+			"Change video conversation mode": "Zmień tryb wideo konwersacji",
+			"Change volume level": "Zmień poziom głośności",
+			"Display": "Ekran",
+			"Enable/disable or change subtitles for current content playback": "Włącz/wyłącz lub zmień napisy dla obecnie odtwarzanej zawartości",
+			"Error playing content": "Bład przy odtwarzaniu zawartości",
+			"Exit": "Wyjdź",
+			"External track": "Zewnętrzna ścieżka",
+			"Info": "Info",
+			"Letter box": "Skrzynka pocztowa",
+			"List": "Lista",
+			"Mount usb device!": "Podłącz urządzenie usb!",
+			"Mute": "Wycisz",
+			"Mute On": "Wyciszenie włączone",
+			"Mute all sound": "Wycisz wszytkie dźwięki",
+			"Mute off": "Wyciszenie wyłączone",
+			"No": "Nie",
+			"Off": "Wyłącz",
+			"Original": "Oryginał",
+			"Pan&Scan": "Dopasuj obraz",
+			"PiP": "PiP",
+			"Settings": "Ustawienia",
+			"Sound": "Dźwięk",
+			"Sound track": "Ścieżka dźwiękowa",
+			"Subtitles": "Napisy",
+			"Timeshift buffer is full": "Bufor Timeshift jest pełny",
+			"Track": "Ścieżka",
+			"USB storage is full": "Pamięć USB jest pełna",
+			"USB storage unavailable": "Pamięć USB jest niedostępna",
+			"Volume level": "Poziom dźwięku",
+			"Yes": "Tak",
+			"combined": "wspólny",
+			"enlarged": "powiększony",
+			"external": "Zewnętrzna ścieżka",
+			"optimal": "optymalny",
+			"player": "odtwarzacz",
+			"undefined": "nieokreślony"
+		}
+	}
+}

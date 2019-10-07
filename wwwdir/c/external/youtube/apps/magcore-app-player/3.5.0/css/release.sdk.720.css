@@ -1,0 +1,358 @@
+/* spa-app: release */
+html, body {
+    height: 720px;
+    width: 1280px;
+    font-size: 22px;
+    font-family: Ubuntu, sans-serif;
+    overflow: hidden;
+    margin: 0;
+    padding: 0; }
+
+table {
+    border: 0;
+    border-collapse: collapse;
+    border-spacing: 0; }
+    table td {
+        padding: 0; }
+
+.maxh {
+    height: 100%; }
+
+.maxw {
+    width: 100%; }
+
+a {
+    text-decoration: none; }
+
+.invisible {
+    visibility: hidden; }
+
+/* stb-app: release */
+html, body {
+    -webkit-user-select: none; }
+
+/* mag-app: release */
+
+.mag-component-layout-list {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 100%;
+    position: relative; }
+    .mag-component-layout-list.hidden {
+        display: none; }
+    .mag-component-layout-list > .body > .item {
+        cursor: pointer;
+        padding: 0 8px;
+        vertical-align: middle;
+        height: 48px;
+        line-height: 48px; }
+    .mag-component-layout-list.horizontal {
+        display: table;
+        table-layout: fixed;
+        width: 100%; }
+        .mag-component-layout-list.horizontal > .item {
+            display: table-cell;
+            text-align: center;
+            vertical-align: middle; }
+    .mag-component-layout-list > .body > .item > div {
+        display: table;
+        width: 100%; }
+        .mag-component-layout-list > .body > .item > div > div {
+            display: table-cell;
+            text-align: left;
+            vertical-align: middle;
+            height: 100%; }
+        .mag-component-layout-list > .body > .item > div > .number {
+            width: 56px; }
+    .mag-component-layout-list .noData {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        display: block;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0; }
+        .mag-component-layout-list .noData:before {
+            display: inline-block;
+            height: 100%;
+            vertical-align: middle;
+            content: ""; }
+        .mag-component-layout-list .noData > div {
+            display: inline-block;
+            vertical-align: middle;
+            width: 100%;
+            text-align: center; }
+        .mag-component-layout-list .noData.hidden {
+            visibility: hidden; }
+
+.mag-component-modal {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: table;
+    z-index: 10;
+    visibility: visible; }
+    .mag-component-modal.hidden {
+        display: none; }
+    .mag-component-modal.hidden {
+        display: table;
+        visibility: hidden; }
+    .mag-component-modal.active > div > div > div.overlay {
+        display: none; }
+    .mag-component-modal > div {
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center; }
+        .mag-component-modal > div > div {
+            position: relative;
+            display: inline-block;
+            overflow: hidden;
+            max-width: 80%;
+            min-width: 266.25px;
+            max-height: 80%; }
+            .mag-component-modal > div > div > div.header {
+                height: 70px;
+                line-height: 70px;
+                font-size: 24px;
+                padding: 0 20px; }
+                .mag-component-modal > div > div > div.header .text {
+                    display: table-cell;
+                    vertical-align: middle;
+                    text-align: center; }
+                    .mag-component-modal > div > div > div.header .text:empty {
+                        padding: 0; }
+            .mag-component-modal > div > div > div.body {
+                position: relative; }
+                .mag-component-modal > div > div > div.body > div .item {
+                    height: 60px;
+                    line-height: 60px;
+                    padding: 0 20px; }
+            .mag-component-modal > div > div > div.overlay {
+                display: block;
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                top: 0;
+                left: 0; }
+
+.mag-component-panel {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 360px;
+    height: 448px;
+    box-sizing: border-box;
+    padding: 0;
+    display: inline-block;
+    position: absolute;
+    z-index: 0; }
+    .mag-component-panel.hidden {
+        display: none; }
+    .mag-component-panel > .body {
+        overflow: hidden; }
+    .mag-component-panel > .title {
+        display: table;
+        width: 100%;
+        height: 56px;
+        line-height: 56px;
+        position: relative;
+        padding-left: 20px;
+        padding-right: 20px;
+        background-repeat: repeat-x;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box; }
+        .mag-component-panel > .title > div {
+            display: table-cell;
+            text-align: left;
+            vertical-align: middle;
+            height: 100%; }
+        .mag-component-panel > .title .name {
+            max-width: 390px;
+            text-transform: uppercase; }
+        .mag-component-panel > .title .amountContainer {
+            width: 90px; }
+            .mag-component-panel > .title .amountContainer .amount {
+                float: right;
+                height: 24px;
+                min-width: 14px;
+                -webkit-border-radius: 100px;
+                border-radius: 100px;
+                font-size: 19.8px;
+                padding: 0 6px;
+                line-height: 26.84px; }
+    .mag-component-panel .mag-component-list .item {
+        height: 56px;
+        line-height: 56px;
+        font-size: 19.8px; }
+    .mag-component-panel.main {
+        width: 480px;
+        top: 68px;
+        left: 400px;
+        height: 544px;
+        z-index: 2; }
+        .mag-component-panel.main .mag-component-list .item {
+            height: 68px;
+            line-height: 68px;
+            font-size: 22px; }
+        .mag-component-panel.main > .title {
+            height: 68px;
+            line-height: 68px;
+            font-size: 24px; }
+        .mag-component-panel.main.size2 {
+            width: 780px; }
+        .mag-component-panel.main.size3 {
+            width: 780px; }
+    .mag-component-panel.left {
+        top: 128px;
+        left: 40px; }
+    .mag-component-panel.right {
+        top: 128px;
+        right: 40px; }
+    .mag-component-panel > .overlay {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0; }
+    .mag-component-panel.active > .overlay {
+        visibility: hidden; }
+    .mag-component-panel.top {
+        z-index: 3; }
+    .mag-component-panel > .shadow {
+        width: 20px;
+        position: absolute;
+        top: 0;
+        z-index: -1;
+        display: none; }
+        .mag-component-panel > .shadow.left {
+            left: -20px; }
+        .mag-component-panel > .shadow.right {
+            right: -20px; }
+    .mag-component-panel.leftShadow > .shadow.left {
+        display: block; }
+    .mag-component-panel.rightShadow > .shadow.right {
+        display: block; }
+    .mag-component-panel.active > .shadow {
+        z-index: 1; }
+
+.mag-component-panel-set {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 100%;
+    height: 100%; }
+    .mag-component-panel-set.hidden {
+        display: none; }
+    .mag-component-panel-set.hidden {
+        display: block !important;
+        visibility: hidden; }
+
+.mag-component-scroll-area {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    overflow: hidden;
+    height: 100%;
+    position: relative; }
+    .mag-component-scroll-area.hidden {
+        display: none; }
+    .mag-component-scroll-area > .body {
+        position: absolute; }
+
+.spa-component-grid {
+    box-sizing: border-box;
+    background-color: #333; }
+    .spa-component-grid.hidden {
+        display: none; }
+    .spa-component-grid table {
+        width: 100%;
+        table-layout: fixed; }
+        .spa-component-grid table td.item {
+            cursor: pointer;
+            padding: 4px 8px;
+            vertical-align: middle;
+            text-align: center; }
+        .spa-component-grid table td.item.mark {
+            color: black;
+            background-color: green; }
+        .spa-component-grid table td.item.focus {
+            color: black;
+            background-color: orange; }
+        .spa-component-grid table td.item.focus.mark {
+            color: white;
+            background-color: #AE7200; }
+        .spa-component-grid table td.item.disable {
+            color: grey;
+            background-color: #111; }
+
+.spa-component-progress-bar {
+    box-sizing: border-box;
+    height: 24px;
+    background-color: grey; }
+    .spa-component-progress-bar.hidden {
+        display: none; }
+    .spa-component-progress-bar .value {
+        height: 100%;
+        background-color: orange; }
+
+.spa-component-scrollbar {
+    box-sizing: border-box;
+    display: inline-block;
+    height: 100%;
+    width: 8px;
+    vertical-align: bottom;
+    background-color: #bbb; }
+    .spa-component-scrollbar.hidden {
+        display: none; }
+    .spa-component-scrollbar .thumb {
+        display: block;
+        width: 8px;
+        min-height: 8px;
+        background-color: #aaa; }
+        .spa-component-scrollbar .thumb.hidden {
+            display: none; }
+    .spa-component-scrollbar.horizontal {
+        display: block;
+        height: 8px;
+        width: 100%; }
+        .spa-component-scrollbar.horizontal .thumb {
+            display: inline-block;
+            vertical-align: top;
+            height: 8px;
+            min-width: 8px; }
+
+.spa-component-widget {
+    box-sizing: border-box;
+    position: absolute;
+    background-color: darkslateblue; }
+    .spa-component-widget.hidden {
+        display: none; }
+    .spa-component-widget.hidden {
+        visibility: hidden; }
+
+.stb-component-page {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 1280px;
+    height: 720px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    visibility: hidden;
+    overflow: hidden; }
+    .stb-component-page.hidden {
+        display: none; }
+    .stb-component-page.active {
+        visibility: inherit; }
+
+.stb-component-panel {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background-color: #eee; }
+    .stb-component-panel.hidden {
+        display: none; }
+

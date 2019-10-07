@@ -1,0 +1,67 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "",
+		"plural": "((n==1)?(0):((n==0)?(1):((n==2)?(2):((((n%100)>=3)&&((n%100)<=10))?(3):((((n%100)>=11)&&((n%100)<=99))?(4):5)))))"
+	},
+	"data": {
+		"": {
+			"Author": "",
+			"Back": "",
+			"Best": "",
+			"Cancel": "",
+			"Close Guide": "",
+			"Exit": "",
+			"Exit from app?": "",
+			"Guide": "",
+			"In order to apply a new language, you must restart the application": "",
+			"Interface language": "",
+			"Language": "",
+			"Live broadcasts are not supported": "",
+			"Main": "",
+			"No videos": "",
+			"Off": "",
+			"Ok": "",
+			"On": "",
+			"Search": "",
+			"Settings": "",
+			"Video is not available": "",
+			"Youtube": "",
+			"Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.": "",
+			"ago": "",
+			"day": [
+				"",
+				""
+			],
+			"hour": [
+				"",
+				""
+			],
+			"minute": [
+				"",
+				""
+			],
+			"month": [
+				"",
+				""
+			],
+			"second": [
+				"",
+				""
+			],
+			"subscriber": [
+				"",
+				""
+			],
+			"view": [
+				"",
+				""
+			],
+			"year": [
+				"",
+				""
+			]
+		}
+	}
+}

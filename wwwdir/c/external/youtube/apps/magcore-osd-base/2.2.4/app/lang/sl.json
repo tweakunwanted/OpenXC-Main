@@ -1,0 +1,14 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "sl",
+		"plural": "(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3)"
+	},
+	"data": {
+		"": {
+			"Device is disconnected": "Naprava je odklopljena",
+			"New device is connected": "Nova naprava je priklopljena"
+		}
+	}
+}

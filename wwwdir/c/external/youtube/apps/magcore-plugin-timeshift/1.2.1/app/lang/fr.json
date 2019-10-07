@@ -1,0 +1,34 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "fr",
+		"plural": "(n > 1)"
+	},
+	"data": {
+		"": {
+			"Buffer usage mode is determined by the parameters: Cyclic overwrite - recording to the buffer is performed cyclically, once it is full the repeated record is made. Stop on filling - the record ends after the storage space is over.": "L’utilisation du mode tampon est déterminé par les paramètres: écrasement cyclique - l’enregistrement en tampon se fait par cycle, une qu’il est complet l’enregistrement répété est fait. Arrêter le remplissage - l’enregistrement se termine après que l’espace de stockage soit plein.",
+			"By pressing Pause Button": "En appuyant sur le bouton Pause",
+			"Cyclic record mode": "Mode enregistrement par cycle",
+			"Delay": "Attente",
+			"Delay before the recording start by the TimeShift function.": "Attente avant le début de l’enregistrement par la fonction TimeShift",
+			"Do not save buffer": "Ne pas sauvegarder le tampon",
+			"Enable Timeshift function.": "Activer la fonction TimeShift",
+			"Enable timeshift": "Activer timeshift",
+			"Length": "Longueur",
+			"On exit": "En quittant",
+			"Request to save": "Demande de sauvegarde",
+			"Save buffer": "Enregistrer tampon",
+			"Setting save content on exit (completion of TimeShift function use).": "Paramétrage de la sauvegarde du contenu en quittant (utilisation de la fonction TimeShift)",
+			"Setting the recording duration made by TimeShift.": "Paramétrage de la durée de l’enregistrement fait par TimeShift",
+			"Stop when out of space": "Arrêt quand il n’y a plus d’espace",
+			"TimeShift function allows you to record the broadcast of a channel on the USB-stick by pressing the \"Pause\" button on the remote control. When you press the \"Pause\" button again, the recording will continue and the channel will start playing from the storage device starting from the moment you first pressed the \"Pause\" button.": "La fonction TimeShift vous permet d’enregistrer la diffusion d’une chaîne sur le support USB en appuyant sur le bouton « Pause » sur la télécommande. En appuyant à nouveau sur le bouton « Pause » l’enregistrement continuera et la chaîne commencera la lecture à partir de l’appareil de stockage en commençant au moment où vous appuyez pour la première fois sur le bouton « Pause ».",
+			"Timeshift": "TimeShift",
+			"Using buffer mode": "Utiliser le mode tampon",
+			"hour": "heure",
+			"hours": "heures",
+			"min": "min",
+			"sec": "sec"
+		}
+	}
+}
